@@ -6,7 +6,7 @@ pre requirements :
 - Download XAMPP v 3.3.0 di repository.
 - Download Composer.
 
-############################################################## Mari Kita Kerjakan Project #############################################################################
+########################### Mari Kita Kerjakan Project ##############################
 
 Bikin account git hub.. Lanjut config git bash :
 - git config --global user.name "namagithubkalian"
@@ -19,4 +19,4 @@ Upload coding lewat gitbash :
 -git push -u namapengguna master
 -authentication login lewat browser.. Buka account github.
 
-#################################################################Terimakasi Atas Partisipasi Anda#######################################################################
+############################# Terimakasi Atas Partisipasi Anda ######################
