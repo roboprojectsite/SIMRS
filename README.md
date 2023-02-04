@@ -1,9 +1,9 @@
 # SIMRS
 Membuat aplikasi SIMRS menggunakan LARAVEL v 9.x dan php v 8.1
 pre requirements :
-- Download gitbash di repository.
+- Download gitbash di https://git-scm.com/downloads .
 - install gitbash (di bagian 'Choosing the default editor used by Git' pilih 'Use Visual Studio Code as Git's default editor' pastikan sudah menginstall Visual Studio Code) selanjutnya pilih next..
-- Download XAMPP v 3.3.0 di repository.
+- Download XAMPP v 3.3.0 di https://sourceforge.net/projects/xampp/ .
 - Download Composer.
 
 ########################### Mari Kita Kerjakan Project ##############################
