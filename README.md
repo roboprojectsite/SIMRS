@@ -4,7 +4,7 @@ pre requirements :
 - Download gitbash di https://git-scm.com/downloads .
 - install gitbash (di bagian 'Choosing the default editor used by Git' pilih 'Use Visual Studio Code as Git's default editor' pastikan sudah menginstall Visual Studio Code) selanjutnya pilih next..
 - Download XAMPP v 3.3.0 di https://sourceforge.net/projects/xampp/ .
-- Download Composer.
+- Download Composer v3.5 di https://getcomposer.org/download/ .
 
 ########################### Mari Kita Kerjakan Project ##############################
 
